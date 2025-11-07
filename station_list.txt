@@ -1,0 +1,5 @@
+Sud Radio;https://ice.creacast.com/sudradio
+Chante France;https://chantefrance.ice.infomaniak.ch/chantefrance-96.aac
+M radio;https://mfm.ice.infomaniak.ch/mfm-128.mp3
+France Culture;https://icecast.radiofrance.fr/franceculture-lofi.mp3
+Aligre FM;https://stream3.vestaradio.com/aligrefmradio

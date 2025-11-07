@@ -46,7 +46,7 @@ std::vector<std::pair<String, String>> stationList;
 
 void getStationList() {
   HTTPClient http;
-  http.begin("http://philae.synology.me/~admin/arduino/radio_dico.php");
+  http.begin("https://OlegPlichko.github.io/M5Cardputer-WebRadio-FR/station_list.txt");
   /*
   expected format 
 Vibration PopRock;http://vibrationpoprock.ice.infomaniak.ch/vibrationpoprock-high.mp3
